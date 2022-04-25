@@ -47,6 +47,6 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ******
 
-![Language-competence] (/img/lang.png)
+![Language-competence](/img/lang.png)
 
 
