@@ -56,6 +56,10 @@ I believe, that my ability to learn and to gain new skills will lead me through 
     }
   }
   return -1;
-} ``` 
+}
+
+******
+
+![Language-competence](/img/lang.competence.png "Languages")
 
 
